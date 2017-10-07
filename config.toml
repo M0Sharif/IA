@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-universal-theme"
@@ -58,19 +58,19 @@ Weight = 3.0
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://youtube.com/"
+    url = "httpss://youtube.com/"
     pre = "<i class='fa fa-2x fa-youtube'></i>"
 
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "https://facebook.com"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Twitter"
-    url = "http://twitter.com"
+    url = "https://twitter.com"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
